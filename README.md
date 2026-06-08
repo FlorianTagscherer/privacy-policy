@@ -2,7 +2,7 @@
 
 **Last Updated: June 8, 2026**
 
-**This application does not collect, store, or process any personal data.
+This application does not collect, store, or process any personal data.
 
 ### In particular, this app does not collect:
 
